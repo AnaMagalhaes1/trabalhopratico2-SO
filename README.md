@@ -11,7 +11,6 @@ Disciplina: Sistemas Operacionais — PUC Minas.
 ```text
 vm_manager/
 ├── Makefile
-├── README.md
 ├── include/
 │   ├── config.h
 │   ├── tlb.h
@@ -26,8 +25,6 @@ vm_manager/
 │   └── statistics.c
 ├── data/
 │   └── generate_data.py
-└── report/
-    └── relatorio.pdf
 ```
 
 ## Como executar
